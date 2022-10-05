@@ -20,8 +20,16 @@ Scope: First we should gather all teachers together to see if this calculator ap
 # Project Spec 
 # User Stories (Required and Optional)
 Required Must-have Stories
+
 User clicks on subject to see what class their taking 
-User 
+
+User then enters in function to allow calculator to compute
+
+Optional Nice-to-have Stories 
+
+Instruction manual with formulas for specific functions
+
+User is shown how the calculator solved the problem
 
 Screens
 
