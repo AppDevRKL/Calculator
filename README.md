@@ -18,3 +18,4 @@ Scope: First we should gather all teachers together to see if this calculator ap
 Required Must-have Stories
 User clicks on subject to see what class their taking 
 User 
+ke
