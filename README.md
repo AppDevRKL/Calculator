@@ -10,9 +10,13 @@ Calculates math functions. Add, subtract, multiply and divide. Also computes all
 # App Evaluation 
 Category: STEM
 Story: Calulates just like a scientific calculator 
+
 Market: Anyone can use this app, especially useful for students in school. 
+
 Habit: This app can be used whenever in school to complete assingments involving a calculator.
-Scope: First we should gather all teachers together to see if this calculator app should be used and is appopriate for the class environment. Then do testing with students to see if they are comfortable with it. There is a lot of potential with this app especially because the way technology is going. 
+
+Scope: First we should gather all teachers together to see if this calculator app should be used and is appopriate for the class environment. Then do testing with students to see if they are comfortable with it. There is a lot of potential with this app especially because the way technology is going.
+
 # Project Spec 
 # User Stories (Required and Optional)
 Required Must-have Stories
