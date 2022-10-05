@@ -46,3 +46,9 @@ Divison Screen: Allows the user to divide two numbers.
 Physics Screen: Allows the user to enter the mass and acceleration calulating the force.
 
 Multiplication Screen: Allows rthe user to input two numbers multiplying them both with each other.
+
+Navigation 
+
+Welcome Calculator Screen --> Select Subject
+
+Selected subejct --> Performed Results
