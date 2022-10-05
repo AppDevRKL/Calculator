@@ -24,10 +24,17 @@ User clicks on subject to see what class their taking
 User 
 
 Screens
+
 Welcome Calculator Screen
+
 Select Subject Screen: Allows the users to choose which calculator system needed at the time of performance.
+
 Addition Screen: Allows the user to add two numbers together using the form of addition.
+
 Subtraction Screen: Allows the users to enter two numbers subtracting one from the other.
+
 Divison Screen: Allows the user to divide two numbers.
+
 Physics Screen: Allows the user to enter the mass and acceleration calulating the force.
+
 Multiplication Screen: Allows rthe user to input two numbers multiplying them both with each other.
